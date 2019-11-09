@@ -1,0 +1,2 @@
+# Integrin-endocytosis data-analysis
+This repository contains files and a script from integrin endocytosis experiment. It's an easy way to structure and conduct statistical analyisis on data obtained from fluorescent signals in my research experiment on integrin endocytosis. The script performs 2-ways ANOVA or t-test depending on the type of experiment. The code was written with a help of Nicolas Liaudet from University of Geneva, Bioimaging Facility.
